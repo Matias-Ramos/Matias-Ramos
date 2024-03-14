@@ -6,7 +6,7 @@
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
 - 🌱 I'm currently aiming to improve my NextJS with TypeScript skills.
 - 🤔 I'm focused on expanding my skillset in backend, UX/UI, Copywriting, image manipulation & illustration generation.
-- ❤️ I'd love to further include Python to my skillset so that I can work in some machine learning project in the mid-term future.
+- ❤️ At some point in time I'd love to include Python in my fullstack skillset so that I can work in some machine learning project.
 - 💬 Ask me about my challenges as a freelance developer or in my path through Accenture.
 - ⚡ Fun fact: Right before I began applying for jobs, I connected with a manager who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition.
 - 📫 How to reach me: matiasr.computacion@gmail.com / https://www.linkedin.com/in/matias-ramos-computacion/
