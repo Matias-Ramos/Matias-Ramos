@@ -5,7 +5,7 @@
 - 🔭 I'm actively collaborating with my manager on freelance front end projects.
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
 - 🌱 My current learning objective is to improve my NextJs (w/ Typescript) skills.
-- 🤔 I'm focused on expanding my expertise in backend, UX/UI, Copywriting, image manipulation & illustration generation.
+- 🤔 I'm focused on expanding my expertise in backend, UX/UI, image edition & illustration generation.
 - ❤️ At some point in time, I'd love to include Python in my fullstack skillset so that I can work in some machine learning project.
 - 💬 Ask me about my challenges as a freelance developer or in my path through Accenture.
 - ⚡ Fun fact: Right before I began applying for jobs, a manager connected with me who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition.
