@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 - 📚 My portfolio: https://www.matiasramos.dev
-- 
+  
 - 🔭 Actively working as a freelance frontender.
 
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
