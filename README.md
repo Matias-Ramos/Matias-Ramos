@@ -8,8 +8,8 @@
 
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
 
-- 🌱 The current focus is set getting better on NextJS with Typescript. 
-      Backend development, UX/UI and Artificial Intelligence are coming next on my list.
+- 🌱 The current focus is set on getting better on NextTs.
+      Backend development, UX/UI and Ai are coming next on my list _#fullStack_
 
 - 🏎️ The long term objective? To become a team leader.
 
