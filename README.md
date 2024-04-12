@@ -1,13 +1,22 @@
 
 
 # 💫 About Me:
+
 - 📚 My portfolio: https://www.matiasramos.dev
-- 🔭 I'm actively collaborating with my manager on freelance front end projects.
+- 
+- 🔭 Actively working as a freelance frontender.
+
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
-- 🌱 My focus is set on NextJS with Typescript; nevertheless, getting better at backend development, UX/UI and image editing are next on my list.
-- 🏎️ My long term objective is to become a team leader.
-- 💬 Ask me about my challenges as a freelance developer or in my path through Accenture.
-- ⚡ Fun fact: Right before I began applying for jobs, a manager connected with me who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition.
+
+- 🌱 The current focus is set getting better on NextJS with Typescript. 
+      Backend development, UX/UI and Artificial Intelligence are coming next on my list.
+
+- 🏎️ The long term objective? To become a team leader.
+
+- 💬 Ask me about my path through Accenture.
+
+- ⚡ Fun fact: _Right before I began applying for jobs, a manager connected with me who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition._
+
 - 📫 How to reach me: matiasr.computacion@gmail.com / https://www.linkedin.com/in/matias-ramos-computacion/
 
 ## 🌐 Socials:
