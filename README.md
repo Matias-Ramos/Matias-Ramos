@@ -4,7 +4,7 @@
 
 - 📚 My portfolio: https://www.matiasramos.dev
   
-- 🔭 Actively working as a freelance frontender.
+- 🔭 Currently working as a fullstack developer.
 
 - 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
 
