@@ -6,8 +6,6 @@
   
 - 🔭 Currently working as a fullstack developer.
 
-- 👯 I'm seeking opportunities to collaborate on larger-scale and more intricate projects.
-
 - 🌱 The current focus is set on getting better on NextTs.
       Backend development, UX/UI and Ai are coming next on my list _#fullStack_
 
