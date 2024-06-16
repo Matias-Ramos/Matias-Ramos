@@ -13,7 +13,7 @@
 
 - 💬 Ask me about my path through Accenture.
 
-- ⚡ Fun fact: _Right before I began applying for jobs, a manager connected with me who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition._
+- ⚡ Fun fact: _Right before I began applying for formal jobs, a manager connected with me who offered to provide me with clients whenever I had the capacity. This presented a fantastic opportunity, allowing me to focus solely on honing my coding skills without the burden of client acquisition._ #freelance
 
 - 📫 How to reach me: matiasr.computacion@gmail.com / https://www.linkedin.com/in/matias-ramos-computacion/
 
